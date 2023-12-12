@@ -3,6 +3,6 @@ Continuous optimization algorithms to optimize noisy latents in a Stable Diffusi
 
 ![benchmark score table](./figures/noise-search-benchmarks.png)
 
-#[ImageReward objective examples](./figures/reward-examples.png)
-#[CLIP objective examples](./figures/clip-examples.png)
-#[JPEG objective examples](./figures/jpeg-examples.png)
+![ImageReward objective examples](./figures/reward-examples.png)
+![CLIP objective examples](./figures/clip-examples.png)
+![JPEG objective examples](./figures/jpeg-examples.png)
