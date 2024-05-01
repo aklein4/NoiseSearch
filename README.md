@@ -1,6 +1,6 @@
 ## Noise Search
 
-Algorithms to optimize the 'noise' in diffusion-based text-to-image models for arbitrary objective optimization.
+Inference-time search algorithms to optimize the 'noise' in diffusion-based text-to-image models for arbitrary objective optimization.
 Tested algorithms include Stochastic Hill Climbing (SHC), Simulated Annealing (SA), and random sampling.
 
 We show that deliberate sampling algorithms like SHC and SA achieve higher scores than the naive random sampling
