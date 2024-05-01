@@ -6,6 +6,8 @@ Tested algorithms include Stochastic Hill Climbing (SHC), Simulated Annealing (S
 We show that deliberate sampling algorithms like SHC and SA achieve higher scores than the naive random sampling
 commonly used in image generation.
 
+See [./NoiseSearch-paper.pdf](./NoiseSearch-paper.pdf) for more info.
+
 ### Concept
 
 Below, we see the optimization landscape of various objective functions (ImageReward, CLIPScore, JPEG compression)
